@@ -5,12 +5,16 @@
 >   
 > ~ *Why The Lucky Stiff*
 
-Currently:
-- 👨‍🎓 Student of Marketing, Engineering.
-- 👨‍💻 Learning to code.
-- 💼 Looking for work.
+What keeps me buzy these days
+- 👨‍🎓 Being Student of Marketing, Engineering
+- 👨‍💻 Improving Problem Solving [skills](https://leetcode.com/whoibrar)
 
-MostTimes:
-- 📖 Reading blogs, books.
-- 🔧 Tinkering tools I use.
-- 🌱 Making Notes.
+On most days
+- 📖 Reading blogs, books
+- 📺 Watching Video Essays
+- 🔧 Tinkering tools I use
+- 🌱 Making [notes](https://notes.whoibrar.com)
+
+Contact 
+- [telegram](https://t.me/whoibrar)
+- whoibrar at protonmail.com
