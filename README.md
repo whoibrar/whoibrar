@@ -5,7 +5,7 @@
 >   
 > ~ *Why The Lucky Stiff*
 
-What keeps me buzy these days
+What keeps me busy these days
 - 👨‍🎓 Being Student of Marketing, Engineering
 - 👨‍💻 Improving Problem Solving [skills](https://leetcode.com/whoibrar)
 
